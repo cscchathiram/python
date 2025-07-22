@@ -1,2 +1,2 @@
 # python
-first program
+print("welcome")
